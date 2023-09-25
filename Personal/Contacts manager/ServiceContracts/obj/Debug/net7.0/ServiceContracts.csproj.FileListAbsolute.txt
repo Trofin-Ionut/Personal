@@ -1,0 +1,15 @@
+C:\Users\trofing\Desktop\C#\Personal\Contacts manager\ServiceContracts\bin\Debug\net7.0\ServiceContracts.deps.json
+C:\Users\trofing\Desktop\C#\Personal\Contacts manager\ServiceContracts\bin\Debug\net7.0\ServiceContracts.dll
+C:\Users\trofing\Desktop\C#\Personal\Contacts manager\ServiceContracts\bin\Debug\net7.0\ServiceContracts.pdb
+C:\Users\trofing\Desktop\C#\Personal\Contacts manager\ServiceContracts\bin\Debug\net7.0\Entities.dll
+C:\Users\trofing\Desktop\C#\Personal\Contacts manager\ServiceContracts\bin\Debug\net7.0\Entities.pdb
+C:\Users\trofing\Desktop\C#\Personal\Contacts manager\ServiceContracts\obj\Debug\net7.0\ServiceContracts.csproj.AssemblyReference.cache
+C:\Users\trofing\Desktop\C#\Personal\Contacts manager\ServiceContracts\obj\Debug\net7.0\ServiceContracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trofing\Desktop\C#\Personal\Contacts manager\ServiceContracts\obj\Debug\net7.0\ServiceContracts.AssemblyInfoInputs.cache
+C:\Users\trofing\Desktop\C#\Personal\Contacts manager\ServiceContracts\obj\Debug\net7.0\ServiceContracts.AssemblyInfo.cs
+C:\Users\trofing\Desktop\C#\Personal\Contacts manager\ServiceContracts\obj\Debug\net7.0\ServiceContracts.csproj.CoreCompileInputs.cache
+C:\Users\trofing\Desktop\C#\Personal\Contacts manager\ServiceContracts\obj\Debug\net7.0\ServiceContracts.csproj.CopyComplete
+C:\Users\trofing\Desktop\C#\Personal\Contacts manager\ServiceContracts\obj\Debug\net7.0\ServiceContracts.dll
+C:\Users\trofing\Desktop\C#\Personal\Contacts manager\ServiceContracts\obj\Debug\net7.0\refint\ServiceContracts.dll
+C:\Users\trofing\Desktop\C#\Personal\Contacts manager\ServiceContracts\obj\Debug\net7.0\ServiceContracts.pdb
+C:\Users\trofing\Desktop\C#\Personal\Contacts manager\ServiceContracts\obj\Debug\net7.0\ref\ServiceContracts.dll

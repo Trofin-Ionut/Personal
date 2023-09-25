@@ -1,0 +1,28 @@
+C:\Users\trofing\Desktop\C#\Personal\Contacts manager\Contacts manager\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\trofing\Desktop\C#\Personal\Contacts manager\Contacts manager\bin\Debug\net7.0\appsettings.json
+C:\Users\trofing\Desktop\C#\Personal\Contacts manager\Contacts manager\bin\Debug\net7.0\Contacts manager.exe
+C:\Users\trofing\Desktop\C#\Personal\Contacts manager\Contacts manager\bin\Debug\net7.0\Contacts manager.deps.json
+C:\Users\trofing\Desktop\C#\Personal\Contacts manager\Contacts manager\bin\Debug\net7.0\Contacts manager.runtimeconfig.json
+C:\Users\trofing\Desktop\C#\Personal\Contacts manager\Contacts manager\bin\Debug\net7.0\Contacts manager.dll
+C:\Users\trofing\Desktop\C#\Personal\Contacts manager\Contacts manager\bin\Debug\net7.0\Contacts manager.pdb
+C:\Users\trofing\Desktop\C#\Personal\Contacts manager\Contacts manager\obj\Debug\net7.0\Contacts manager.csproj.AssemblyReference.cache
+C:\Users\trofing\Desktop\C#\Personal\Contacts manager\Contacts manager\obj\Debug\net7.0\Contacts manager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trofing\Desktop\C#\Personal\Contacts manager\Contacts manager\obj\Debug\net7.0\Contacts manager.AssemblyInfoInputs.cache
+C:\Users\trofing\Desktop\C#\Personal\Contacts manager\Contacts manager\obj\Debug\net7.0\Contacts manager.AssemblyInfo.cs
+C:\Users\trofing\Desktop\C#\Personal\Contacts manager\Contacts manager\obj\Debug\net7.0\Contacts manager.csproj.CoreCompileInputs.cache
+C:\Users\trofing\Desktop\C#\Personal\Contacts manager\Contacts manager\obj\Debug\net7.0\Contacts manager.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\trofing\Desktop\C#\Personal\Contacts manager\Contacts manager\obj\Debug\net7.0\Contacts manager.RazorAssemblyInfo.cache
+C:\Users\trofing\Desktop\C#\Personal\Contacts manager\Contacts manager\obj\Debug\net7.0\Contacts manager.RazorAssemblyInfo.cs
+C:\Users\trofing\Desktop\C#\Personal\Contacts manager\Contacts manager\obj\Debug\net7.0\staticwebassets\msbuild.Contacts manager.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\trofing\Desktop\C#\Personal\Contacts manager\Contacts manager\obj\Debug\net7.0\staticwebassets\msbuild.build.Contacts manager.props
+C:\Users\trofing\Desktop\C#\Personal\Contacts manager\Contacts manager\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Contacts manager.props
+C:\Users\trofing\Desktop\C#\Personal\Contacts manager\Contacts manager\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Contacts manager.props
+C:\Users\trofing\Desktop\C#\Personal\Contacts manager\Contacts manager\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\trofing\Desktop\C#\Personal\Contacts manager\Contacts manager\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\trofing\Desktop\C#\Personal\Contacts manager\Contacts manager\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\trofing\Desktop\C#\Personal\Contacts manager\Contacts manager\obj\Debug\net7.0\scopedcss\bundle\Contacts manager.styles.css
+C:\Users\trofing\Desktop\C#\Personal\Contacts manager\Contacts manager\obj\Debug\net7.0\Contacts manager.dll
+C:\Users\trofing\Desktop\C#\Personal\Contacts manager\Contacts manager\obj\Debug\net7.0\refint\Contacts manager.dll
+C:\Users\trofing\Desktop\C#\Personal\Contacts manager\Contacts manager\obj\Debug\net7.0\Contacts manager.pdb
+C:\Users\trofing\Desktop\C#\Personal\Contacts manager\Contacts manager\obj\Debug\net7.0\Contacts manager.genruntimeconfig.cache
+C:\Users\trofing\Desktop\C#\Personal\Contacts manager\Contacts manager\obj\Debug\net7.0\ref\Contacts manager.dll
